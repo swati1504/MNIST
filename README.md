@@ -20,7 +20,7 @@
 #### -> Reshaping the data
 #### -> Scaling the data using MinMaxSacalar
 #### -> One Hot Encoding using dummies
-#### -> Building the model
+#### -> Building the DL model
 #### -> Compiling and Training the model
 #### -> Saving and Loading the model
 
